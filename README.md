@@ -1,4 +1,4 @@
-# DL2024_project
+# DL2024_project: Weather forecasting with LSTM
 
 
 Data visualization
