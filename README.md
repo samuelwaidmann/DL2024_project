@@ -1,5 +1,5 @@
-# DL2024_project: Weather forecasting with LSTM
-
+# Deep Learning 2024 Project: Weather forecasting with LSTM
+Predicting the weather of Barcelona
 
 Data visualization
 Different architectures, baselines (comparison benchmarks)
@@ -13,3 +13,5 @@ https://medium.com/@ozdogar/time-series-forecasting-using-lstm-pytorch-implement
 
 ## To download the datasets
 https://www.visualcrossing.com/weather/weather-data-services
+
+This is a project based on making a weather prediction (in our case it is Barcelona, ​​but we have attached more datasets to test) using a LSTM (Long Short-Term Memory) network, we have also added a version with Transformers.
